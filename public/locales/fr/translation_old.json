@@ -1,0 +1,6 @@
+{
+  "main": {
+    "message_contents": "Ils disent {{body}}",
+    "message_contents_male": "Il dit this {{body}}"
+  }
+}
